@@ -132,4 +132,5 @@ Include your output screenshot here
 ![Screenshot 2023-06-05 085349](https://github.com/Hanumanth26/cover-page-design/assets/121033192/bdee4d78-e2c3-4b3f-8755-e01a8385ab47)
 
 ## Result:
-Write your result
+a website to display the cover page design of a book is dveloped
+
